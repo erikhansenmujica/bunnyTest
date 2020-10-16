@@ -1,0 +1,4 @@
+[submodule "front"]
+	path = front
+	url = https://github.com/erikhansenmujica/bunnyFront
+	branch = develop
